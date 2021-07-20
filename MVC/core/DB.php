@@ -2,9 +2,9 @@
 class DB
 {
     public $con;
-    protected $server = "localhost";
-    protected $username  = "root";
-    protected $password = "";
+    protected $server = "us-cdbr-east-04.cleardb.com";
+    protected $username  = "b92a41fcac2802";
+    protected $password = "77e581b8";
     protected $dbname = "quanlyphonggym";
     function __construct()
     {
